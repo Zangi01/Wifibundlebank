@@ -1,1 +1,1 @@
-# Wifibundlebank
+# Wifibundlebank, This app will store data bundles upto 50GB,one can turn this app on when they are using free wifi at home and it will store data to be used when you are traveling or at work. Hence someone can hotspot you while you store his/her data to be  used later.
